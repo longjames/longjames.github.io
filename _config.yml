@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 1aa353735207877f55c6                            #生成的clientID
   clientSecret: 57174704a3b13d1612fdd17ba49b35483517ef9d    #生成的clientSecret
-  repo: https://github.com/longjames/longjames.github.io    #仓库名称
+  repo: longjames.github.io    #仓库名称
   owner: longjames    #github用户名
   admin: longjames
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
