@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 罗军的博客 | BY Blog
+title: longjames Blog
+SEOTitle: 罗军的博客 | longjames longjames
 header-img: img/post-bg-desk.jpg
 #email: qiubaiying@gmail.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 罗军的博客, longjames, 罗军, iOS, Apple, iPhone"
+keyword: "longjames, 罗军的博客, longjames, 罗军, java"
 url: "http://longjames.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/longjames/longjames.github.io.git" # you code repository
